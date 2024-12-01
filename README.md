@@ -1,0 +1,2 @@
+# Thesis-Capsule-Network-code
+This contains the code used in my thesis: "THE EFFECTIVENESS OF  CONVOLUTIONAL NEURAL  NETWORKS AND CAPSULE  NETWORKS FOR MEDICAL WASTE  CLASSIFICATION"
